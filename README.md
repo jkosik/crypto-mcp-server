@@ -1,2 +1,2 @@
 # crypto-mcp-server
-MCP server for crypto exchange
+MCP server for crypto exchange.
